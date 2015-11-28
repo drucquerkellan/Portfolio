@@ -9,6 +9,15 @@ body {
     top: 8px;
 }
 
+.kcd a {
+    text-decoration: none;
+    color: #333333;
+}
+
+.kcd a:hover {
+    color: #999999;
+}
+
 .nav .row {
     position: relative;
     top: 10px;
@@ -36,13 +45,7 @@ body {
     text-decoration: underline;
 }
 
-.profile-details {
-    font-family: "hind";
+.works { 
     position: relative;
-    top: 25px;
-}
-
-.profile-details p {
-    font-weight: 300;
-    font-family: "source code pro"
+    top: 45px;
 }
