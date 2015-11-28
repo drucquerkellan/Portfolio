@@ -6,7 +6,7 @@ body {
     text-align: center;
     font-family: "source code pro";
     position: relative;
-    top: 9px;
+    top: 8px;
 }
 
 .nav .row {
@@ -34,4 +34,15 @@ body {
 
 .nav a:hover {
     text-decoration: underline;
+}
+
+.profile-details {
+    font-family: "hind";
+    position: relative;
+    top: 25px;
+}
+
+.profile-details p {
+    font-weight: 300;
+    font-family: "source code pro"
 }
