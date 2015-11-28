@@ -1,0 +1,37 @@
+body {
+    font-family: "Hind";
+}
+
+.kcd {
+    text-align: center;
+    font-family: "source code pro";
+    position: relative;
+    top: 9px;
+}
+
+.nav .row {
+    position: relative;
+    top: 10px;
+    text-align: center;
+    color: #333333;
+    border-bottom: 1px solid #999999;
+    border-top: 1px solid #999999;
+}
+
+.nav-items li {
+    display: inline;
+    position: relative;
+    top: 13px;
+    margin: 12px;
+    font-size: 16px;
+    font-weight: 300;
+}
+
+.nav a {
+    text-decoration: none;
+    color: #333333;
+}
+
+.nav a:hover {
+    text-decoration: underline;
+}
